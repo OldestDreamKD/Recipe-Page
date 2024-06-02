@@ -1,7 +1,7 @@
 # Recipe-Page
 
 Frontend Mentor - Recipe Page
-  An staic aesthetically pleasing looking website which has the recipe to create an delicious Omlette.
+  An staic aesthetically pleasing looking website which has the recipe to create an delicious omelette.
   Not much functionality but rather making it look good and responsive.
 
 Challenge:
